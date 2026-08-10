@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-3frrty.salamcuanwin.sbs/sitemap.xml
